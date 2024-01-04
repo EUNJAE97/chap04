@@ -42,7 +42,7 @@ public class D_switch {
 
         }
         System.out.println(first + "" + op + "" + second + " = " + result);
-
+                                // "" 로 공백을 만들어서 정수가 정확하게 계산되게한다.
 
     }
 
